@@ -1,2 +1,2 @@
 ## Face Detection
-### We are using the mediapipe framework for this program
+### Face detection using the mediapipe framework
